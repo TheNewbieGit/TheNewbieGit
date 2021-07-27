@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheNewbieGit
+- 👀 I’m interested in Web developing 
+- 🌱 I’m currently learning Html&Css
